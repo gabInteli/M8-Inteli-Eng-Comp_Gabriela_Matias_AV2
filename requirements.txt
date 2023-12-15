@@ -205,3 +205,5 @@ wget==3.2
 wrapt==1.16.0
 yarl==1.9.3
 zipp==3.17.0
+gTTS==2.4.0
+playsound
